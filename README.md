@@ -1,3 +1,3 @@
-# Quant
+# Quantum Decision and Calibration
 
-Research on quantum algorithms, quantum communication, and quantum machine learning.
+Research on calibration and statistical decision-making in quantum error correction and sensing.
